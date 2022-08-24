@@ -16,7 +16,7 @@
 
 </p>
 
-### A great fan of animals!
+### Also - a great fan of animals!
 <p align="center">
 <img src = "https://github.com/michalbialacki/Icons/blob/main/python_technologies.png" width=220 height=140 >
 </p>
